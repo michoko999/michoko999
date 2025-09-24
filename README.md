@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michoko, from France</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michoko999&label=Profile%20views&color=0e75b6&style=flat" alt="michoko999" /> </p>
-
+<img align="right" height="150" src="https://github.com/michoko999/michoko999/blob/main/rooFISH.gif"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/michoko" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="michoko" height="40" width="52" /></a>
@@ -15,14 +15,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michoko999&show_icons=true&locale=en&layout=compact" alt="michoko999" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michoko999&show_icons=true&locale=en" alt="michoko999" /></p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
