@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michoko</h1>
+<h1 align="center">Hi 👋, I'm Michoko, from France</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michoko999&label=Profile%20views&color=0e75b6&style=flat" alt="michoko999" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -19,3 +19,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michoko999&show_icons=true&locale=en" alt="michoko999" /></p>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
