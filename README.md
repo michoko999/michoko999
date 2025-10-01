@@ -1,6 +1,6 @@
 # Salut ! 👋 Je suis Michoko
 
-<img align="left" src="https://github.com/michoko999/michoko999/blob/main/rooFISH.gif" width="150" alt="Animation" style="margin-right: 20px;"/>
+<img align="right" src="https://github.com/michoko999/michoko999/blob/main/rooFISH.gif" width="80" alt="Animation" style="margin-right: 10px;"/>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 ## 🌐 Retrouvez-moi sur
 
@@ -60,20 +60,11 @@
 
 </div>
 
----
-
 ## 📊 Statistiques GitHub
 
 <div align="center">
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=michoko999&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
 
 </div>
 
