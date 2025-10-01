@@ -1,8 +1,8 @@
-<div align="center">
-
 # Salut ! 👋 Je suis Michoko
 
-<img src="https://github.com/michoko999/michoko999/blob/main/rooFISH.gif" width="300" alt="Animation"/>
+<img align="left" src="https://github.com/michoko999/michoko999/blob/main/rooFISH.gif" width="150" alt="Animation" style="margin-right: 20px;"/>
+
+<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=michoko999&label=Vues%20du%20profil&color=blueviolet&style=for-the-badge)](https://github.com/michoko999)
 
@@ -70,20 +70,10 @@
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michoko999/michoko999/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michoko999/output/pacman-contribution-graph.svg">
-  <img alt="Graphique de contributions Pac-Man" src="https://raw.githubusercontent.com/michoko999/michoko999/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
+---
 
 <div align="center">
 
-
-![](https://github.com/michoko999/michoko999/blob/main/rooFISH.gif)
 
 </div>
 
