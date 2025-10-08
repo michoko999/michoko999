@@ -1,16 +1,16 @@
-# Salut ! 👋 Je suis Michoko
+# Hello! 👋 I'm Michoko
 
 <img align="right" src="https://github.com/michoko999/michoko999/blob/main/rooFISH.gif" width="80" alt="Animation" style="margin-right: 10px;"/>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=michoko999&label=Vues%20du%20profil&color=blueviolet&style=for-the-badge)](https://github.com/michoko999)
+[![Profile Views](https://komarev.com/ghpvc/?username=michoko999&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/michoko999)
 
 </div>
 
 
 
-## 🌐 Retrouvez-moi sur
+## 🌐 Find me on
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 </div>
 
-## 💻 Technologies & Langages
+## 💻 Technologies & Languages
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 </div>
 
-## 🛠️ Logiciels & Outils
+## 🛠️ Software & Tools
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 </div>
 
-## 🖥️ Systèmes d'exploitation
+## 🖥️ Operating Systems
 
 <div align="center">
 
@@ -60,11 +60,10 @@
 
 </div>
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=michoko999&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michoko999&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
-
